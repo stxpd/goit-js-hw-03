@@ -1,0 +1,19 @@
+{
+    "name": "homework-2",
+    "version": "1.0.0",
+    "description": "Homework-2",
+    "scripts": {
+  "push": "git add . && git commit -m 'update' && git push"
+},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/stxpd/goit-js-hw-02"
+    },
+    "keywords": [],
+    "author": "stxpd",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/stxpd/goit-js-hw-02"
+    },
+    "homepage": "https://github.com/stxpd/goit-js-hw-02/blob/main/README.md"
+  }
